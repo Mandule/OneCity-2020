@@ -1,0 +1,8 @@
+*.bin
+*.csv
+*.zip
+.vscode
+.ipynb_checkpoints
+train/
+test1/
+test2/
